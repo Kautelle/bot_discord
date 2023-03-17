@@ -1,0 +1,15 @@
+{
+  "name": "bot_discord",
+  "version": "1.0.0",
+  "description": "bot de estudos de programacao para discord",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot_discord"
+  ],
+  "author": "Washington Miscossi Calderone",
+  "license": "ISC"
+}
