@@ -3,7 +3,7 @@ const { SlashCommandBuilder, ActionRowBuilder, StringSelectMenuBuilder, Componen
 const row = new ActionRowBuilder()
     .addComponents(
         new StringSelectMenuBuilder()
-            .setCustomID("select")
+            .setCustomId("select")
             .setPlaceholder("Nenhuma linguagem selecionada")
             .addOptions({
                 label: "javascript",
